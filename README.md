@@ -33,7 +33,7 @@ This project investigates the classification of mental health states (normal, an
 
 The project explores the potential of utilizing social media data to detect depression and anxiety. It employs machine learning and natural language processing techniques to identify indicators of mental health issues within user-generated content on platforms like Twitter, Facebook, or Reddit.
 
-## What will you find in the IEEE paper-like report and the code notebook?
+### What will you find in the IEEE paper-like report and the code notebook?
 ## Related Work
 
 The related work section provides a literature review on classifying mental health states using social media data. It compares and analyzes relevant papers, highlighting the state-of-the-art and comparing them to the current project.
@@ -70,6 +70,5 @@ The future work section outlines potential enhancements and expansions of the pr
 
 The references section lists the academic papers and resources referenced in the project.
 
-Feel free to explore the code notebook and adapt it for your research purposes.
-
+## Your feedback and collaboration are highly valued. Feel free to delve into the details, and I'm open to discussions and contributions!
 ---
