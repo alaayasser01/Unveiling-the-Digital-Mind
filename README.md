@@ -43,8 +43,11 @@ The related work section provides a literature review on classifying mental heal
 This section explains the dataset used, preprocessing steps, and feature extraction techniques. It details the steps involved in preparing the data for model training, including the removal of punctuation, converting text to lowercase, and other preprocessing steps.
 
 ## Methods
-![Project Image 3](readme_images/block diagram.png)
-*block diagram* 
+<p align="center">
+  <img align="center" src="https://github.com/alaayasser01/Unveiling-the-Digital-Mind/blob/main/readme_images/block%20diagram.png" alt="block diagram">
+  <p align="center">block diagram</p>
+</p>
+
 
 The methods section outlines the machine learning model used, specifically the Support Vector Classifier (SVC) with a radial basis function (RBF) kernel. It explains the use of TF-IDF features and the rationale behind choosing this approach.
 
@@ -55,12 +58,13 @@ The experiments section discusses the development of sequential models and a dat
 ## Results
 
 This section presents the results of various machine learning models, including Naive Bayes, Random Forest, Gradient Boosting, Decision Tree, Bagging Classifier, and Support Vector Classifier (SVC). It includes accuracy results and a confusion matrix for the selected SVC model.
-![Project Image 1](readme_images/embedding results.png) | ![Project Image 2](readme_images/TFIDF results.png) 
-:---: | :---: 
-*embedding results* | *TFIDF results* 
-<br/>
-![Project Image 3](readme_images/confusion matrix for SVC.png)
-*confusion matrix for SVC* 
+<p align="center">
+  <img align="center" src="https://github.com/alaayasser01/Unveiling-the-Digital-Mind/blob/main/readme_images/TFIDF%20results.png" width="300" alt="TFIDF results">
+  <img align="center" src="https://github.com/alaayasser01/Unveiling-the-Digital-Mind/blob/main/readme_images/confusion%20matrix%20for%20SVC.png" width="280" alt="confusion matrix for SVC">
+  <img align="center" src="https://github.com/alaayasser01/Unveiling-the-Digital-Mind/blob/main/readme_images/embedding%20results.png" width="300" alt="embedding results">
+  <p align="center">confusion matrix for SVC</p>
+</p>
+
 ## Code Notebook
 
 The notebook includes code for data preprocessing, feature extraction, model training, and evaluation.
