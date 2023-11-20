@@ -58,11 +58,15 @@ The experiments section discusses the development of sequential models and a dat
 ## Results
 
 This section presents the results of various machine learning models, including Naive Bayes, Random Forest, Gradient Boosting, Decision Tree, Bagging Classifier, and Support Vector Classifier (SVC). It includes accuracy results and a confusion matrix for the selected SVC model.
+
 <p align="center">
   <img align="center" src="https://github.com/alaayasser01/Unveiling-the-Digital-Mind/blob/main/readme_images/TFIDF%20results.png" width="300" alt="TFIDF results">
-  <img align="center" src="https://github.com/alaayasser01/Unveiling-the-Digital-Mind/blob/main/readme_images/confusion%20matrix%20for%20SVC.png" width="280" alt="confusion matrix for SVC">
   <img align="center" src="https://github.com/alaayasser01/Unveiling-the-Digital-Mind/blob/main/readme_images/embedding%20results.png" width="300" alt="embedding results">
-  <p align="center">confusion matrix for SVC</p>
+</p>
+
+**Confusion Matrix for SVC:**
+<p align="center">
+  <img align="center" src="https://github.com/alaayasser01/Unveiling-the-Digital-Mind/blob/main/readme_images/confusion%20matrix%20for%20SVC.png" width="280" alt="confusion matrix for SVC">
 </p>
 
 ## Code Notebook
