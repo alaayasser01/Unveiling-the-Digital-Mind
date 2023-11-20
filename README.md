@@ -8,7 +8,7 @@ This repository contains the code and report for the project "Unveiling the Digi
 
 This project investigates the classification of mental health states (normal, anxiety, and depression) by combining two distinct datasets using machine learning algorithms. The achieved testing accuracies are approximately 95% on both datasets. By integrating results from individual classifications, a final model capable of accurately categorizing individuals into normal, anxiety, or depressed states is obtained.
 
-## Authors
+## Team members
 
 1. Dina Khalid - [Email](mailto:dina.salama00@eng-st.cu.edu.eg)
 2. Alaa Yasser - [Email](mailto:alaa.hameed01@eng-st.cu.edu.eg)
